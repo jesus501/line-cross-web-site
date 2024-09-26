@@ -11,7 +11,7 @@ export const StartUp = () => {
         Start-Up?
       </h2>
 
-      <img src={image} alt="fondo" className="my-8" />
+      <img src='' alt="fondo" className="my-8" />
 
       <p className="font-bold mb-4 text-lg">
         Helps, consulting, and financing from a fellow tech-friend
